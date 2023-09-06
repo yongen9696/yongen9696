@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**yongen9696/yongen9696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi, Yong here. Welcome to my profile.
+[![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19930%26project%3D%26in%3D2592000000)](https://codetime.dev)
+______
+#### Introduction
+______
+#### Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yongen9696&theme=dark&mode=weekly&card_width=400)](https://git.io/streak-stats)
+______
+#### Music that I am listening to
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=1277837320&count=3&unique=true)
