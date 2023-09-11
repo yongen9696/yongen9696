@@ -6,7 +6,7 @@ I was a Full-stack SWE, a Graduate Research Assistant and a Robotics Application
 
 The adventure keeps going...
 
-You can find me on [LinkedIn](www.linkedin.com/in/yongen9696)
+You can find me on [LinkedIn](https://linkedin.com/in/yongen9696)
 ______
 #### Commit Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yongen9696&theme=dark&mode=weekly&card_width=400)](https://git.io/streak-stats)
