@@ -2,7 +2,7 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=flat-square&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D19930%26project%3D%26in%3D2592000000)](https://codetime.dev)
 ______
 #### Introduction
-I was a Full-stack SWE, a Graduate Research Assistant and a Robotics Application Engineer. Currently, I am working as a Robotics SWE on developing computer vision-related applications for robots.
+I was a Full-stack SWE, a Graduate Research Assistant and a Robotics Application Engineer. Currently, I am working as a Robotics SWE on integrating computer vision-related applications for cleaning robots to enhance their functionalities.
 
 The adventure keeps going...
 
