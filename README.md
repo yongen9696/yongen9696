@@ -1,7 +1,7 @@
 ![Header](./header.png)
 ______
 #### Introduction
-I was a Full-stack SWE, a Graduate Research Assistant and a Robotics Application Engineer. Currently, I am working as a Robotics SWE on integrating AI applications for cleaning robots (Gaussian Robotics, CenoBots, LionsBot) to enhance their functionalities.
+Former Full-Stack SWE, Graduate Research Assistant, and Robotics SWE. Currently leading embedded software development as RDD E&E Software Lead at Foz One, architecting autonomous systems for AMR and UAV platforms with computer vision and ROS2 integration.
 
 You can find me on [LinkedIn](https://linkedin.com/in/yongen9696)
 
